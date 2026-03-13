@@ -25,9 +25,6 @@
 'Content: Ruby':
   - 'ruby/**/*'
 
-'Content: Ruby on Rails':
-  - 'ruby_on_rails/**/*'
-
 'Content: Foundations':
   - 'foundations/**/*'
 
